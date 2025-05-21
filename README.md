@@ -21,10 +21,8 @@ Nel dataset possiamo trovare features quali:
 -caratteristiche demografiche
 
 ##Executive Summary:
-E' possibile visualizzare l'intero report dal sito di Tableau: [https://bit.ly/Tableau_public_projects]
-Analizzando questo dataset possiamo notare come il dataset sia piuttosto piatto e privo di insighs significativi.
-Nessuna abitudine o feature sembra prevalere sull'altra in modo incisivo.
-Ad ogni modo il report riesce a evidenziare ciascun segmento in modo distinto, e a sottolineare le loro caratteristiche, sia demografiche che di acquisto.
+E' possibile visualizzare l'intero report dal sito di Tableau Public: [https://bit.ly/Tableau_public_projects]
+Inoltre il documento "Customer_behavior.docx" offre spunti sul contesto, motivi e audience del progetto.
 
 ##Autore:
 Andrea Cambedda
